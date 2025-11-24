@@ -118,5 +118,8 @@
   <ItemGroup>
     <Resource Include="Image\m48w2wyujo2uwb87n4p6p7p3ornu2mo4.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Image\EAP225-Outdoor%28EU%291.0_01_normal_1511142332988w.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
